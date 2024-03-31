@@ -1,0 +1,10 @@
+AZURE_AD_B2C_DOMAIN=<tenant name>.onmicrosoft.com
+AZURE_AD_B2C_TENANT_TD=<tenant id>
+AZURE_AD_B2C_CLIENT_ID=<client id>
+AZURE_AD_B2C_CLIENT_SECRET=<client secret>
+AZURE_AD_B2C_APP_ID=<app id>
+AZURE_AD_B2C_PUBLIC_KEY=<public key>
+AZURE_AD_B2C_USER_FLOW=<user flow>
+AZURE_AD_B2C_JWK=https://<tenant name>.b2clogin.com/<tenant name>.onmicrosoft.com/discovery/v2.0/keys?p 
+AZURE_AD_B2C_FLOW=<user flow name>
+AZURE_B2C_EXTENDED_CLIENT_ID=<extended client id>
